@@ -50,9 +50,9 @@ JAVA企业级应用开发：https://github.com/summerapril5/tongji-java-enterpri
 dotnet：https://github.com/summerapril5/tongji-dotnet-projects.git
 
 商务智能案例分析BI：https://github.com/summerapril5/tongji-BusinessIntelligence-studies.git
-😚😚😚
 
-欢迎同学们动动小手star一下🥹
+<br>😚😚😚
+欢迎同学们动动小手star⭐一下 🥹
 
 
 
