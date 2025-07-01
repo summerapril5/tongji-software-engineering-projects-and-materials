@@ -1,0 +1,34 @@
+(window["canvasWebpackJsonp"]=window["canvasWebpackJsonp"]||[]).push([[563],{MOpQ:function(e,n,t){"use strict"
+t.r(n)
+var a=t("u7Gu")
+var i=t("ouhR")
+var o=t.n(i)
+var c=t("JD5e")
+t("jYyc")
+var r=window.ENV.page_view_update_url
+r&&o()(function(){var e=0
+a["a"].interaction_contexts={}
+if(r){var n=0
+var t=300
+o()(document).bind("page_view_update_url_received",function(e,n){r=n})
+var i
+o()(document).bind("page_view_update",function(a,c){var u={}
+if(c||e>10&&n<t){u.interaction_seconds=e
+o.a.ajaxJSON(r,"PUT",u,null,function(e,n){422===n.status&&clearInterval(i)})
+e=0}})
+i=setInterval(function(){o()(document).triggerHandler("page_view_update")},1e3*t)
+window.addEventListener("unload",function(){if(e>30){var n=new FormData
+n.append("interaction_seconds",e)
+n.append("_method","put")
+n.append("authenticity_token",Object(c["a"])())
+n.append("utf8","&#x2713")
+navigator.sendBeacon(r,n)}},false)
+var u=false
+o()(document).bind("mousemove keypress mousedown focus",function(){u=true})
+setInterval(function(){if(u){e++
+a["a"]&&a["a"].interaction_context&&a["a"].interaction_contexts&&(a["a"].interaction_contexts[a["a"].interaction_context]=(a["a"].interaction_contexts[a["a"].interaction_context]||0)+1)
+u=false
+if(n>=t){n=0
+o()(document).triggerHandler("page_view_update")}n=0}else n++},1e3)}})}}])
+
+//# sourceMappingURL=563-c-488a89386e.js.map

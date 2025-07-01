@@ -1,0 +1,184 @@
+(window["canvasWebpackJsonp"]=window["canvasWebpackJsonp"]||[]).push([[562],{wGhc:function(n,a,e){"use strict"
+e.r(a)
+var i=e("GLiE")
+var o=e.n(i)
+var _=e("ouhR")
+var t=e.n(_)
+var u=e("pQTu")
+var d=e("m0r6")
+Object(d["a"])(JSON.parse('{"ar":{"hide_account_navigation_menu_ccdf9480":"إخفاء قائمة التنقل بين الحسابات","hide_admin_navigation_menu_5cab9c9e":"إخفاء قائمة التنقل بين المسؤولين","hide_courses_navigation_menu_6f7c4cfd":"إخفاء قائمة التنقل بين المساقات","hide_groups_navigation_menu_62e8b3d0":"إخفاء قائمة التنقل بين المجموعات","hide_navigation_menu_f0b3e90":"إخفاء قائمة التنقل","show_account_navigation_menu_d97270a9":"إظهار قائمة التنقل بين الحسابات","show_admin_navigation_menu_92fb579f":"إظهار قائمة التنقل بين المسؤولين","show_courses_navigation_menu_7ad1a8d4":"إظهار قائمة التنقل بين المساقات","show_groups_navigation_menu_1521d38d":"إظهار قائمة التنقل بين المجموعات","show_navigation_menu_34e7f441":"إظهار قائمة التنقل"},"cy":{"hide_account_navigation_menu_ccdf9480":"Cuddio Dewislen Crwydro’r Cyfrif","hide_admin_navigation_menu_5cab9c9e":"Cuddio Dewislen Crwydro - Gweinyddwr","hide_courses_navigation_menu_6f7c4cfd":"Cuddio Dewislen Crwydro Cwrs","hide_groups_navigation_menu_62e8b3d0":"Cuddio Dewislen Crwydro - Grwpiau","hide_navigation_menu_f0b3e90":"Cuddio Dewislen Crwydro","show_account_navigation_menu_d97270a9":"Dangos Dewislen Crwydro’r Cyfrif","show_admin_navigation_menu_92fb579f":"Dangos Dewislen Crwydro Gweinyddwr","show_courses_navigation_menu_7ad1a8d4":"Dangos Dewislen Crwydro Cyrsiau","show_groups_navigation_menu_1521d38d":"Dangos Dewislen Crwydro Grwpiau","show_navigation_menu_34e7f441":"Dangos Dewislen Crwydro"},"da":{"hide_account_navigation_menu_ccdf9480":"Skjul kontonavigationsmenu","hide_admin_navigation_menu_5cab9c9e":"Skjul admin-navigationsmenu","hide_courses_navigation_menu_6f7c4cfd":"Skjul fag-navigationsmenu","hide_groups_navigation_menu_62e8b3d0":"Skjul gruppe-navigationsmenu","hide_navigation_menu_f0b3e90":"Skjul navigationsmenu","show_account_navigation_menu_d97270a9":"Vis kontonavigationsmenu","show_admin_navigation_menu_92fb579f":"Vis admin-navigationsmenu","show_courses_navigation_menu_7ad1a8d4":"Vis fag-navigationsmenu","show_groups_navigation_menu_1521d38d":"Vis gruppe-navigationsmenu","show_navigation_menu_34e7f441":"Vis navigationsmenu"},"da-x-k12":{"hide_account_navigation_menu_ccdf9480":"Skjul kontonavigationsmenu","hide_admin_navigation_menu_5cab9c9e":"Skjul admin-navigationsmenu","hide_courses_navigation_menu_6f7c4cfd":"Skjul fag-navigationsmenu","hide_groups_navigation_menu_62e8b3d0":"Skjul gruppe-navigationsmenu","hide_navigation_menu_f0b3e90":"Skjul navigationsmenu","show_account_navigation_menu_d97270a9":"Vis kontonavigationsmenu","show_admin_navigation_menu_92fb579f":"Vis admin-navigationsmenu","show_courses_navigation_menu_7ad1a8d4":"Vis fag-navigationsmenu","show_groups_navigation_menu_1521d38d":"Vis gruppe-navigationsmenu","show_navigation_menu_34e7f441":"Vis navigationsmenu"},"de":{"hide_account_navigation_menu_ccdf9480":"Konto-Navigationsmenü ausblenden","hide_admin_navigation_menu_5cab9c9e":"Admin-Navigationsmenü ausblenden","hide_courses_navigation_menu_6f7c4cfd":"Kurs-Navigationsmenü ausblenden","hide_groups_navigation_menu_62e8b3d0":"Gruppen-Navigationsmenü ausblenden","hide_navigation_menu_f0b3e90":"Navigationsmenü ausblenden","show_account_navigation_menu_d97270a9":"Konto-Navigationsmenü einblenden","show_admin_navigation_menu_92fb579f":"Admin-Navigationsmenü einblenden","show_courses_navigation_menu_7ad1a8d4":"Kursnavigationsmenü einblenden","show_groups_navigation_menu_1521d38d":"Gruppen-Navigationsmenü einblenden","show_navigation_menu_34e7f441":"Navigationsmenü einblenden"},"en-AU":{"hide_account_navigation_menu_ccdf9480":"Hide Account Navigation Menu","hide_admin_navigation_menu_5cab9c9e":"Hide Admin Navigation Menu","hide_courses_navigation_menu_6f7c4cfd":"Hide Courses Navigation Menu","hide_groups_navigation_menu_62e8b3d0":"Hide Groups Navigation Menu","hide_navigation_menu_f0b3e90":"Hide Navigation Menu","show_account_navigation_menu_d97270a9":"Show Account Navigation Menu","show_admin_navigation_menu_92fb579f":"Show Admin Navigation Menu","show_courses_navigation_menu_7ad1a8d4":"Show Courses Navigation Menu","show_groups_navigation_menu_1521d38d":"Show Groups Navigation Menu","show_navigation_menu_34e7f441":"Show Navigation Menu"},"en-CA":{"hide_account_navigation_menu_ccdf9480":"Hide Account Navigation Menu","hide_admin_navigation_menu_5cab9c9e":"Hide Admin Navigation Menu","hide_courses_navigation_menu_6f7c4cfd":"Hide Courses Navigation Menu","hide_groups_navigation_menu_62e8b3d0":"Hide Groups Navigation Menu","hide_navigation_menu_f0b3e90":"Hide Navigation Menu","show_account_navigation_menu_d97270a9":"Show Account Navigation Menu","show_admin_navigation_menu_92fb579f":"Show Admin Navigation Menu","show_courses_navigation_menu_7ad1a8d4":"Show Courses Navigation Menu","show_groups_navigation_menu_1521d38d":"Show Groups Navigation Menu","show_navigation_menu_34e7f441":"Show Navigation Menu"},"en-GB":{"hide_account_navigation_menu_ccdf9480":"Hide account navigation menu","hide_admin_navigation_menu_5cab9c9e":"Hide admin navigation menu","hide_courses_navigation_menu_6f7c4cfd":"Hide courses navigation menu","hide_groups_navigation_menu_62e8b3d0":"Hide groups navigation menu","hide_navigation_menu_f0b3e90":"Hide navigation menu","show_account_navigation_menu_d97270a9":"Show account navigation menu","show_admin_navigation_menu_92fb579f":"Show admin navigation menu","show_courses_navigation_menu_7ad1a8d4":"Show courses navigation menu","show_groups_navigation_menu_1521d38d":"Show groups navigation menu","show_navigation_menu_34e7f441":"Show navigation menu"},"es":{"hide_account_navigation_menu_ccdf9480":"Ocultar menú de navegación de cuenta","hide_admin_navigation_menu_5cab9c9e":"Ocultar menú de navegación de administrador","hide_courses_navigation_menu_6f7c4cfd":"Ocultar menú de navegación de cursos","hide_groups_navigation_menu_62e8b3d0":"Ocultar menú de navegación de grupos","hide_navigation_menu_f0b3e90":"Ocultar menú de navegación","show_account_navigation_menu_d97270a9":"Mostrar menú de navegación de cuenta","show_admin_navigation_menu_92fb579f":"Mostrar menú de navegación de administrador","show_courses_navigation_menu_7ad1a8d4":"Mostrar menú de navegación de cursos","show_groups_navigation_menu_1521d38d":"Mostrar menú de navegación de grupos","show_navigation_menu_34e7f441":"Mostrar menú de navegación"},"fa":{"hide_account_navigation_menu_ccdf9480":"مخفی کردن منوی پیمایش کاربر","hide_admin_navigation_menu_5cab9c9e":"مخفی کردن منوی پیمایش مدیر","hide_courses_navigation_menu_6f7c4cfd":"مخفی کردن منوی پیمایش درس‌ها","hide_groups_navigation_menu_62e8b3d0":"مخفی کردن منوی پیمایش گروه‌ها","hide_navigation_menu_f0b3e90":"مخفی کردن منوی پیمایش ","show_account_navigation_menu_d97270a9":"نمایش منوی پیمایش حساب","show_admin_navigation_menu_92fb579f":"نمایش منوی پیمایش مدیر","show_courses_navigation_menu_7ad1a8d4":"نمایش منوی پیمایش درس ها","show_groups_navigation_menu_1521d38d":"نمایش منوی پیمایش گروه ها","show_navigation_menu_34e7f441":"نمایش منوی پیمایش"},"fi":{"hide_account_navigation_menu_ccdf9480":"Piilota tilin navigointivalikko","hide_admin_navigation_menu_5cab9c9e":"Piilota pääkäyttäjän navigointivalikko","hide_courses_navigation_menu_6f7c4cfd":"Piilota kurssien navigointivalikko","hide_groups_navigation_menu_62e8b3d0":"Piilota ryhmien navigointivalikko","hide_navigation_menu_f0b3e90":"Piilota navigointivalikko","show_account_navigation_menu_d97270a9":"Näytä tilin navigointivalikko","show_admin_navigation_menu_92fb579f":"Näytä pääkäyttäjän navigointivalikko","show_courses_navigation_menu_7ad1a8d4":"Näytä kurssien navigointivalikko","show_groups_navigation_menu_1521d38d":"Näytä ryhmien navigointivalikko","show_navigation_menu_34e7f441":"Näytä navigointivalikko"},"fr":{"hide_account_navigation_menu_ccdf9480":"Masquer le menu de navigation de comptes","hide_admin_navigation_menu_5cab9c9e":"Masquer le menu de navigation de l’administrateur","hide_courses_navigation_menu_6f7c4cfd":"Masquer le menu de navigation de cours","hide_groups_navigation_menu_62e8b3d0":"Masquer le menu de navigation de groupes","hide_navigation_menu_f0b3e90":"Masquer le menu de navigation","show_account_navigation_menu_d97270a9":"Afficher le menu de navigation de comptes","show_admin_navigation_menu_92fb579f":"Afficher le menu de navigation de l’administrateur","show_courses_navigation_menu_7ad1a8d4":"Afficher le menu de navigation de cours","show_groups_navigation_menu_1521d38d":"Afficher le menu de navigation de groupes","show_navigation_menu_34e7f441":"Afficher le menu de navigation"},"fr-CA":{"hide_account_navigation_menu_ccdf9480":"Masquer le menu de navigation du compte","hide_admin_navigation_menu_5cab9c9e":"Masquer le menu de navigation de l’administrateur","hide_courses_navigation_menu_6f7c4cfd":"Masquer le menu de navigation des cours","hide_groups_navigation_menu_62e8b3d0":"Masquer le menu de navigation des groupes","hide_navigation_menu_f0b3e90":"Masquer le menu de navigation","show_account_navigation_menu_d97270a9":"Afficher le menu de navigation du compte","show_admin_navigation_menu_92fb579f":"Afficher le menu de navigation de l’administrateur","show_courses_navigation_menu_7ad1a8d4":"Afficher le menu de navigation des cours","show_groups_navigation_menu_1521d38d":"Afficher le menu de navigation des groupes","show_navigation_menu_34e7f441":"Afficher le menu de navigation"},"he":{"hide_account_navigation_menu_ccdf9480":"הסתרת תפריט ניווט חשבונות","hide_admin_navigation_menu_5cab9c9e":"הסתרת תפריט ניווט מנהלי מערכת","hide_courses_navigation_menu_6f7c4cfd":"הסתרת תפריט ניווט קורסים","hide_groups_navigation_menu_62e8b3d0":"הסתרת תפריט ניווט קבוצות","hide_navigation_menu_f0b3e90":"הסתרת תפריט ניווט","show_account_navigation_menu_d97270a9":"הצגת תפריט ניווט חשבונות","show_admin_navigation_menu_92fb579f":"הצגת תפריט ניווט של מנהלי מערכת","show_courses_navigation_menu_7ad1a8d4":"הצגת תפריט ניווט קורסים","show_groups_navigation_menu_1521d38d":"הצגת תפריט ניווט קבוצות","show_navigation_menu_34e7f441":"הצגת תפריט ניווט"},"ht":{"hide_account_navigation_menu_ccdf9480":"Kache Meni Navigasyon Kont","hide_admin_navigation_menu_5cab9c9e":"Kache Meni Navigasyon Admin","hide_courses_navigation_menu_6f7c4cfd":"Kache Meni Navigasyon Kou","hide_groups_navigation_menu_62e8b3d0":"Kache Meni Navigasyon Gwoup","hide_navigation_menu_f0b3e90":"Kache Meni Navigasyon","show_account_navigation_menu_d97270a9":"Afiche Meni Navigasyon Kont","show_admin_navigation_menu_92fb579f":"Afiche Meni Navigasyon Admin","show_courses_navigation_menu_7ad1a8d4":"Afiche Meni Navigasyon Kou","show_groups_navigation_menu_1521d38d":"Afiche Meni Navigasyon Gwoup","show_navigation_menu_34e7f441":"Afiche Meni Navigasyon"},"hu":{"hide_courses_navigation_menu_6f7c4cfd":"Kurzusnavigációs menü elrejtése","hide_navigation_menu_f0b3e90":"Navigációs menü elrejtése"},"is":{"hide_account_navigation_menu_ccdf9480":"Fela leiðarstýringu valmyndar reiknings","hide_admin_navigation_menu_5cab9c9e":"Fela leiðarstýringarvalmynd kerfisstjórnanda","hide_courses_navigation_menu_6f7c4cfd":"Fela leiðarstýringarvalmynd námskeiða","hide_groups_navigation_menu_62e8b3d0":"Fela leiðarstýringarvalmynd hópa","hide_navigation_menu_f0b3e90":"Fela leiðarstýringarvalmynd","show_account_navigation_menu_d97270a9":"Sýna leiðarstýringarvalmynd reiknings","show_admin_navigation_menu_92fb579f":"Sýna leiðarstýringarvalmynd kerfisstjórnanda","show_courses_navigation_menu_7ad1a8d4":"Sýna leiðarstýringarvalmynd námskeiða","show_groups_navigation_menu_1521d38d":"Sýna leiðarstýringarvalmynd hópa","show_navigation_menu_34e7f441":"Sýna leiðarstýringarvalmynd"},"it":{"hide_account_navigation_menu_ccdf9480":"Nascondi menu di navigazione account","hide_admin_navigation_menu_5cab9c9e":"Nascondi menu di navigazione amministratore","hide_courses_navigation_menu_6f7c4cfd":"Nascondi menu di navigazione corsi","hide_groups_navigation_menu_62e8b3d0":"Nascondi meni di navigazione gruppi","hide_navigation_menu_f0b3e90":"Nascondi menu di navigazione","show_account_navigation_menu_d97270a9":"Mostra menu di navigazione account","show_admin_navigation_menu_92fb579f":"Mostra menu di navigazione amministratore","show_courses_navigation_menu_7ad1a8d4":"Mostra menu di esplorazione corsi","show_groups_navigation_menu_1521d38d":"Mostra menu di esplorazione gruppi","show_navigation_menu_34e7f441":"Mostra menu di navigazione"},"ja":{"hide_account_navigation_menu_ccdf9480":"アカウントのナビゲーションメニューを非表示にする","hide_admin_navigation_menu_5cab9c9e":"管理ナビゲーションメニューを非表示にする","hide_courses_navigation_menu_6f7c4cfd":"コースナビゲーションメニューを非表示にする","hide_groups_navigation_menu_62e8b3d0":"グループナビゲーションメニューを非表示にする","hide_navigation_menu_f0b3e90":"ナビゲーションメニューを非表示にする","show_account_navigation_menu_d97270a9":"アカウントナビゲーションメニューを表示する","show_admin_navigation_menu_92fb579f":"アドミニストレーションナビゲーションメニューを表示する","show_courses_navigation_menu_7ad1a8d4":"コースナビゲーションメニューを表示する","show_groups_navigation_menu_1521d38d":"グループナビゲーションメニューを表示する","show_navigation_menu_34e7f441":"ナビゲーションメニューを表示する"},"mi":{"hide_account_navigation_menu_ccdf9480":"Huna Tāhua Whakatere Pūkete","hide_admin_navigation_menu_5cab9c9e":"Huna Whakahaere Whakatere Tāhua","hide_courses_navigation_menu_6f7c4cfd":"Huna Ngā Akoranga Whakatere Tāhua","hide_groups_navigation_menu_62e8b3d0":"Huna Ngā Rōpū Whakatere Tāhua","hide_navigation_menu_f0b3e90":"Huna Whakatere Tāhua","show_account_navigation_menu_d97270a9":"Whakātu Pūkete Whakatere Tāhua","show_admin_navigation_menu_92fb579f":"Whakātu Whakahaere Whakatere Tāhua","show_courses_navigation_menu_7ad1a8d4":"Whakātu Ngā Akoranga Whakatere Tāhua","show_groups_navigation_menu_1521d38d":"Whakātu Ngā Rōpū Whakatere Tāhua","show_navigation_menu_34e7f441":"Whakātu Whakatere Tāhua"},"nb":{"hide_account_navigation_menu_ccdf9480":"Skjul menyen for kontonavigering","hide_admin_navigation_menu_5cab9c9e":"Skjul menyen for administratornavigering","hide_courses_navigation_menu_6f7c4cfd":"Skjul menyen for emnernavigering","hide_groups_navigation_menu_62e8b3d0":"Skjul menyen for gruppenavigering","hide_navigation_menu_f0b3e90":"Skjul navigeringsmenyen","show_account_navigation_menu_d97270a9":"Vis menyen for kontonavigering","show_admin_navigation_menu_92fb579f":"Vis menyen for administratornavigering","show_courses_navigation_menu_7ad1a8d4":"Vis menyen for emnernavigering","show_groups_navigation_menu_1521d38d":"Vis menyen for gruppenavigering","show_navigation_menu_34e7f441":"Vis navigeringsmenyen"},"nb-x-k12":{"hide_account_navigation_menu_ccdf9480":"Skjul menyen for kontonavigering","hide_admin_navigation_menu_5cab9c9e":"Skjul menyen for administratornavigering","hide_courses_navigation_menu_6f7c4cfd":"Skjul menyen for fagnavigering","hide_groups_navigation_menu_62e8b3d0":"Skjul menyen for gruppenavigering","hide_navigation_menu_f0b3e90":"Skjul navigeringsmenyen","show_account_navigation_menu_d97270a9":"Vis menyen for kontonavigering","show_admin_navigation_menu_92fb579f":"Vis menyen for administratornavigering","show_courses_navigation_menu_7ad1a8d4":"Vis menyen for fagnavigering","show_groups_navigation_menu_1521d38d":"Vis menyen for gruppenavigering","show_navigation_menu_34e7f441":"Vis navigeringsmenyen"},"nl":{"hide_account_navigation_menu_ccdf9480":"Menu Accountnavigatie verbergen","hide_admin_navigation_menu_5cab9c9e":"Menu Beheernavigatie verbergen","hide_courses_navigation_menu_6f7c4cfd":"Menu Cursusnavigatie verbergen","hide_groups_navigation_menu_62e8b3d0":"Menu Groepsnavigatie verbergen","hide_navigation_menu_f0b3e90":"Navigatiemenu verbergen","show_account_navigation_menu_d97270a9":"Menu Accountnavigatie weergeven","show_admin_navigation_menu_92fb579f":"Menu Beheernavigatie weergeven","show_courses_navigation_menu_7ad1a8d4":"Menu Cursusnavigatie weergeven","show_groups_navigation_menu_1521d38d":"Menu Groepsnavigatie weergeven","show_navigation_menu_34e7f441":"Navigatiemenu weergeven"},"nn":{"hide_account_navigation_menu_ccdf9480":"Skjul meny for kontonavigasjon","hide_admin_navigation_menu_5cab9c9e":"Skjul meny for kontonavigasjon","hide_courses_navigation_menu_6f7c4cfd":"Skjul meny for emnenavigasjon","hide_groups_navigation_menu_62e8b3d0":"Skjul meny for gruppenavigasjon","hide_navigation_menu_f0b3e90":"Skjul navigeringsmeny","show_account_navigation_menu_d97270a9":"Vis meny for kontonavigasjon","show_admin_navigation_menu_92fb579f":"Vis admin-navigeringsmeny ","show_courses_navigation_menu_7ad1a8d4":"Vis meny for emnenavigasjon","show_groups_navigation_menu_1521d38d":"Vis meny for gruppenavigasjon","show_navigation_menu_34e7f441":"Vis navigeringsmeny"},"pl":{"hide_account_navigation_menu_ccdf9480":"Ukryj menu nawigacji na koncie","hide_admin_navigation_menu_5cab9c9e":"Ukryj menu nawigacji administratora","hide_courses_navigation_menu_6f7c4cfd":"Ukryj menu nawigacji w kursie","hide_groups_navigation_menu_62e8b3d0":"Ukryj menu nawigacji w grupach","hide_navigation_menu_f0b3e90":"Ukryj menu nawigacji","show_account_navigation_menu_d97270a9":"Pokaż menu nawigacji na koncie","show_admin_navigation_menu_92fb579f":"Pokaż menu nawigacji administratora","show_courses_navigation_menu_7ad1a8d4":"Pokaż menu nawigacji w kursie","show_groups_navigation_menu_1521d38d":"Pokaż menu nawigacji w grupach","show_navigation_menu_34e7f441":"Pokaż menu nawigacji"},"pt":{"hide_account_navigation_menu_ccdf9480":"Ocultar menu de navegação da conta","hide_admin_navigation_menu_5cab9c9e":"Ocultar menu de navegação do administrador","hide_courses_navigation_menu_6f7c4cfd":"Ocultar Menu de navegação das disciplinas","hide_groups_navigation_menu_62e8b3d0":"Ocultar Menu de navegação de grupos","hide_navigation_menu_f0b3e90":"Ocultar Menu de navegação","show_account_navigation_menu_d97270a9":"Mostrar o Menu de Navegação da Conta","show_admin_navigation_menu_92fb579f":"Mostrar o Menu de navegação do administrador","show_courses_navigation_menu_7ad1a8d4":"Mostrar Menu de navegação de disciplinas","show_groups_navigation_menu_1521d38d":"Mostrar o Menu de navegação dos grupos","show_navigation_menu_34e7f441":"Mostrar o Menu de Navegação"},"pt-BR":{"hide_account_navigation_menu_ccdf9480":"Ocultar Menu de Navegação da conta","hide_admin_navigation_menu_5cab9c9e":"Ocultar Menu de Navegação do Admin","hide_courses_navigation_menu_6f7c4cfd":"Ocultar Menu de Navegação dos cursos","hide_groups_navigation_menu_62e8b3d0":"Ocultar Menu de Navegação dos grupos","hide_navigation_menu_f0b3e90":"Ocultar Menu de Navegação","show_account_navigation_menu_d97270a9":"Mostrar Menu de Navegação da conta","show_admin_navigation_menu_92fb579f":"Mostrar Menu de Navegação do Admin","show_courses_navigation_menu_7ad1a8d4":"Mostrar Menu de Navegação dos cursos","show_groups_navigation_menu_1521d38d":"Mostrar Menu de Navegação dos grupos","show_navigation_menu_34e7f441":"Mostrar Menu de Navegação"},"ru":{"hide_account_navigation_menu_ccdf9480":"Скрыть меню навигации учетной записи","hide_admin_navigation_menu_5cab9c9e":"Скрыть меню навигации администратора","hide_courses_navigation_menu_6f7c4cfd":"Скрыть меню навигации курсов","hide_groups_navigation_menu_62e8b3d0":"Скрыть меню навигации групп","hide_navigation_menu_f0b3e90":"Скрыть меню навигации","show_account_navigation_menu_d97270a9":"Показать меню навигации учетной записи","show_admin_navigation_menu_92fb579f":"Показать меню навигации администратора","show_courses_navigation_menu_7ad1a8d4":"Показать меню навигации курсов","show_groups_navigation_menu_1521d38d":"Показать меню навигации групп","show_navigation_menu_34e7f441":"Показать меню навигации"},"sl":{"hide_account_navigation_menu_ccdf9480":"Skrij meni navigacije po računu","hide_admin_navigation_menu_5cab9c9e":"Skrij skrbniški meni navigacije","hide_courses_navigation_menu_6f7c4cfd":"Skrij meni navigacije po predmetih","hide_groups_navigation_menu_62e8b3d0":"Skrij meni navigacije po skupinah","hide_navigation_menu_f0b3e90":"Skrij meni navigacije","show_account_navigation_menu_d97270a9":"Prikaži meni navigacije po računu","show_admin_navigation_menu_92fb579f":"Prikaži skrbniški meni navigacije","show_courses_navigation_menu_7ad1a8d4":"Prikaži meni navigacije po predmetih","show_groups_navigation_menu_1521d38d":"Prikaži meni navigacije po skupinah","show_navigation_menu_34e7f441":"Prikaži meni navigacije"},"sv":{"hide_account_navigation_menu_ccdf9480":"Dölj konto-navigeringsmeny","hide_admin_navigation_menu_5cab9c9e":"Dölj administrations-navigeringsmeny","hide_courses_navigation_menu_6f7c4cfd":"Dölj kurs-navigeringsmeny","hide_groups_navigation_menu_62e8b3d0":"Dölj grupp-navigeringsmeny","hide_navigation_menu_f0b3e90":"Dölj navigeringsmeny","show_account_navigation_menu_d97270a9":"Visa konto-navigeringsmeny","show_admin_navigation_menu_92fb579f":"Visa administratörs-navigeringsmeny","show_courses_navigation_menu_7ad1a8d4":"Visa kurs-navigeringsmeny","show_groups_navigation_menu_1521d38d":"Visa grupp-navigeringsmeny","show_navigation_menu_34e7f441":"Visa navigeringsmeny"},"sv-x-k12":{"hide_account_navigation_menu_ccdf9480":"Dölj konto-navigeringsmeny","hide_admin_navigation_menu_5cab9c9e":"Dölj administrations-navigeringsmeny","hide_courses_navigation_menu_6f7c4cfd":"Dölj kurs-navigeringsmeny","hide_groups_navigation_menu_62e8b3d0":"Dölj grupp-navigeringsmeny","hide_navigation_menu_f0b3e90":"Dölj navigeringsmeny","show_account_navigation_menu_d97270a9":"Visa konto-navigeringsmeny","show_admin_navigation_menu_92fb579f":"Visa administratörs-navigeringsmeny","show_courses_navigation_menu_7ad1a8d4":"Visa kurs-navigeringsmeny","show_groups_navigation_menu_1521d38d":"Visa grupp-navigeringsmeny","show_navigation_menu_34e7f441":"Visa navigeringsmeny"},"uk":{"hide_account_navigation_menu_ccdf9480":"Сховати меню навігації облікового запису","hide_admin_navigation_menu_5cab9c9e":"Сховати меню навігації адміністратора","hide_courses_navigation_menu_6f7c4cfd":"Сховати меню навігації курсів","hide_groups_navigation_menu_62e8b3d0":"Сховати меню навігації груп","hide_navigation_menu_f0b3e90":"Сховати меню навігації ","show_account_navigation_menu_d97270a9":"Показати Меню навігації облікового запису","show_admin_navigation_menu_92fb579f":"Показати Меню навігації адміністратора","show_courses_navigation_menu_7ad1a8d4":"Показувати меню навігації курсів","show_groups_navigation_menu_1521d38d":"Показувати меню навігації груп","show_navigation_menu_34e7f441":"Показати меню навігації"},"zh-Hans":{"hide_account_navigation_menu_ccdf9480":"隐藏帐户导航菜单","hide_admin_navigation_menu_5cab9c9e":"隐藏管理员导航菜单","hide_courses_navigation_menu_6f7c4cfd":"隐藏课程导航菜单","hide_groups_navigation_menu_62e8b3d0":"隐藏小组导航菜单","hide_navigation_menu_f0b3e90":"隐藏导航菜单","show_account_navigation_menu_d97270a9":"显示帐户导航菜单","show_admin_navigation_menu_92fb579f":"显示管理员导航菜单","show_courses_navigation_menu_7ad1a8d4":"显示课程导航菜单","show_groups_navigation_menu_1521d38d":"显示小组导航菜单","show_navigation_menu_34e7f441":"显示导航菜单"},"zh-Hant":{"hide_account_navigation_menu_ccdf9480":"隱藏帳戶導航工具選單","hide_admin_navigation_menu_5cab9c9e":"隱藏管理員導航工具選單","hide_courses_navigation_menu_6f7c4cfd":"隱藏課程導航工具選單","hide_groups_navigation_menu_62e8b3d0":"隱藏小組導航工具選單","hide_navigation_menu_f0b3e90":"隱藏導航工具選單","show_account_navigation_menu_d97270a9":"顯示帳戶導航工具選單","show_admin_navigation_menu_92fb579f":"顯示管理員導航工具選單","show_courses_navigation_menu_7ad1a8d4":"顯示課程導航工具選單","show_groups_navigation_menu_1521d38d":"顯示小組導航工具選單","show_navigation_menu_34e7f441":"顯示導航工具選單"}}'))
+e("jQeR")
+e("0sPK")
+var s=u["default"].scoped("subnav_menu_toggle")
+var r=function(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:window.location.pathname
+var a={hide:{default:s.t("Hide Navigation Menu"),account:s.t("Hide Account Navigation Menu"),admin:s.t("Hide Admin Navigation Menu"),courses:s.t("Hide Courses Navigation Menu"),groups:s.t("Hide Groups Navigation Menu")},show:{default:s.t("Show Navigation Menu"),account:s.t("Show Account Navigation Menu"),admin:s.t("Show Admin Navigation Menu"),courses:s.t("Show Courses Navigation Menu"),groups:s.t("Show Groups Navigation Menu")}}
+var e=document.body.classList.contains("course-menu-expanded")
+var i=e?"hide":"show"
+var o=a[i].default
+n.match(/^\/profile/)?o=a[i].account:n.match(/^\/accounts/)?o=a[i].admin:n.match(/^\/courses/)?o=a[i].courses:n.match(/^\/groups/)&&(o=a[i].groups)
+var _=document.getElementById("courseMenuToggle")
+_.setAttribute("aria-label",o)
+_.setAttribute("title",o)}
+var g=r
+var c=e("Nxtp")
+e("iBIV")
+e("VHne")
+e("p6Wi")
+t()(document).ready(function(){t()("#floating_reminders").draggable()
+t()(".show_reminders_link").click(function(n){n.preventDefault()
+t()(this).blur()
+var a=t()("#floating_reminders")
+var e=a.clone()
+e.children().css("visibility","hidden")
+var i=t()("#reminders_icon").offset()
+var o=t()("#floating_reminders").offset().top
+a.after(e)
+e.css({width:20,height:20,left:i.left,top:i.top-o,opacity:0})
+a.css("visibility","hidden").css("left","")
+e.animate({top:a.css("top"),left:a.css("left"),width:a.width(),height:a.height(),opacity:1},"slow",function(){t()(this).remove()
+a.css("visibility","visible")
+a.find("a:not(.hide_reminders_link):visible:first").focus()
+t()("#reminders_icon").hide()})
+a.find(".update_session_url").attr("href")})
+t()(".hide_reminders_link").click(function(n){n.preventDefault()
+var a=t()(this).parents("#floating_reminders")
+var e=a.clone()
+a.after(e).css("left",-2e3)
+e.children().css("visibility","hidden")
+var i=t()("#reminders_icon").show().offset()
+var o=e.offset().top
+e.animate({width:20,height:20,left:i.left,top:i.top-o,opacity:0},"slow",function(){t()(this).remove()})
+a.find(".update_session_url").attr("href")})
+t()(".drop_held_context_link").click(function(n){n.preventDefault()
+var a=t()(this).parents(".reminder")
+a.confirmDelete({url:t()(this).attr("href"),message:"Are you sure you want to drop this "+a.find(".item_type").text()+"?",success:function(n){t()(this).fadeOut("fast",function(){t()(this).remove()
+0===t()("#floating_reminders .reminder").length&&t()("#floating_reminders").fadeOut("fast",function(){t()(this).remove()
+t()("#reminders_icon").remove()})})}})})})
+e("VNfg")
+e("JD5e")
+var m=e("5Ky4")
+function v(n){n.data("handled",true)
+var a=n.data("url")||n.attr("href")
+var e=n.data("method")
+var i=n.attr("target")
+var o=t()('<form method="post" action="'.concat(Object(m["a"])(a),'"></form>'))
+var _='\n    <input name="_method" value="'.concat(Object(m["a"])(e),'" type="hidden" />\n    <input name="authenticity_token" type="hidden" />\n  ')
+i&&o.attr("target",i)
+o.hide().append(_).appendTo("body").submit()}function h(n){var a=n.data("confirm")
+if(!a)return true
+return confirm(a)}t()(document).delegate("a[data-confirm], a[data-method], a[data-remove]","click",function(n){var a=t()(this)
+if(a.data("handled")||!h(a))return false
+if(a.data("remove")){f(a)
+return false}if(a.data("method")){v(a)
+return false}})
+function f(n){var a=n.data("remove")
+var e=n
+var i=n.data("url")
+var o=n.closest(":ui-popup").popup("option","trigger").data("KyleMenu")
+o&&o.opts.appendMenuTo&&(e=o.$placeholder)
+var _=e.closest(a)
+_.bind({beforeremove:function(){_.hide()},remove:function(){_.remove()}})
+_.trigger("beforeremove")
+var u=function(){return _.trigger("remove")}
+var d=function(){return _.show()}
+i?t.a.ajaxJSON(i,"DELETE",{},u,d):u()}var l=e("lVr/")
+t()(document).on("mousedown click keydown",".al-trigger",function(n){var a=t()(this)
+if(a.data("kyleMenu"))return
+var e=t.a.extend({noButton:true},a.data("kyleMenuOptions"))
+a.data("append-to-body")&&(e.appendMenuTo="body")
+e=t.a.extend(e,{popupOpts:{position:{my:a.data("popup-my"),at:a.data("popup-at"),within:a.data("popup-within")}}})
+new l["a"](a,e)
+a.trigger(n)})
+e("TBRb")
+function p(n){return function(){var a
+var e=t()(this)
+if(!(a=e.data("textWhileTarget".concat(n))))return
+var i="textWhileTarget".concat("Hidden"===n?"Shown":"Hidden")
+var o=e.data(i)
+o||e.data(i,e.text())
+e.text(a)}}function w(n,a,e){var i
+null==a&&(a=n.is(":ui-dialog:hidden")||"true"!==n.attr("aria-expanded"))
+var o=t()("[aria-controls*=".concat(n.attr("id"),"]"))
+o.filter(function(){return t()(this).data("hideWhileTargetShown")}).toggle(!a)
+if(e&&void 0!==e.attr("aria-expanded")){e.attr("aria-expanded",!("true"===e.attr("aria-expanded")))
+n.toggle("true"===e.attr("aria-expanded"))}else n.attr("aria-expanded","".concat(a)).toggle(a)
+if(n.is(":ui-dialog")||(i=n.data("turnIntoDialog"))){if(i&&a){i=t.a.extend({autoOpen:false,close:function(){w(n,false)}},i)
+n.dialog(i).fixDialogButtons()}if(a){n.dialog("open")
+n.data("read-on-open")&&n.dialog("widget").attr("aria-live","assertive").attr("aria-atomic","true")}else n.dialog("isOpen")&&n.dialog("close")}o.each(p(a?"Shown":"Hidden"))}var b={bind:function(){t()(document).on("click change keyclick",".element_toggler[aria-controls]",function(n){var a
+var e=t()(this)
+if(e.is('input[type="checkbox"]')){if("click"===n.type)return
+a=e.prop("checked")}"click"===n.type&&n.preventDefault()
+var i=e.closest(".user_content")
+i.length||(i=t()(document.body))
+var o=i.find("#".concat(e.attr("aria-controls").replace(/\s/g,", #")))
+o.length&&w(o,a,e)
+var _=e.find('i[class*="icon-mini-arrow"].auto_rotate')
+if(_.length){_.toggleClass("icon-mini-arrow-down")
+_.toggleClass("icon-mini-arrow-right")}})}}
+b.bind()
+var k=13
+t()(document).on("keydown",".ic-Super-toggle__input",function(n){n.which===k&&t()(n.target).click()})
+Object(d["a"])(JSON.parse('{"en-AU":{"instructure_inline_media_comment":{"alerts":{"kaltura_disabled":"Kaltura has been disabled for this Canvas site"},"links":{"minimize_embedded_kaltura_content":"Minimise embedded content"}}},"en-CA":{"instructure_inline_media_comment":{"alerts":{"kaltura_disabled":"Kaltura has been disabled for this Canvas site"},"links":{"minimize_embedded_kaltura_content":"Minimize embedded content"}}},"en-GB":{"instructure_inline_media_comment":{"alerts":{"kaltura_disabled":"Kaltura has been disabled for this Canvas site"},"links":{"minimize_embedded_kaltura_content":"Minimise embedded content"}}},"is":{"instructure_inline_media_comment":{"alerts":{"kaltura_disabled":"Kaltura er óvirk á þessari Canvas-síðu"},"links":{"minimize_embedded_kaltura_content":"Lágmarka innfellt efni"}}},"mi":{"instructure_inline_media_comment":{"alerts":{"kaltura_disabled":"Kua monokia Kaltura mō tēnei pae Canvas"},"links":{"minimize_embedded_kaltura_content":"Whakamōkito ihirangi tāmau"}}},"ru":{"instructure_inline_media_comment":{"alerts":{"kaltura_disabled":"Kaltura отключено для этого сайта Canvas"},"links":{"minimize_embedded_kaltura_content":"Свернуть встроенное содержимое"}}}}'))
+var y=u["default"].scoped("instructure_inline_media_comment")
+e("f3bb")
+var M={buildMinimizerLink:function(){return t()('<a href="#" style="font-size: 0.8em;">\n      '.concat(Object(m["a"])(y.t("links.minimize_embedded_kaltura_content","Minimize embedded content")),"\n    </a>"))},buildCommentHolder:function(n){return t()('<div><div class="innerholder" tabindex="-1" style="margin-bottom: 15px;"></div></div>')},getMediaCommentId:function(n){var a
+var e=n.data("media_comment_id")||n.find(".media_comment_id:first").text()
+e||(a=n.attr("id"))
+a&&a.match(/^media_comment_/)&&(e=a.substring(14))
+return e},collapseComment:function(n){O(n.find("video,audio").data("mediaelementplayer"),function(n){return n.pause()})
+n.remove()
+t.a.trackEvent("hide_embedded_content","hide_media")}}
+var j=function(n){t()(n.target).find("div.mejs-audio").focus()}
+var N=300
+var S=function(n){var a=n.closest("td")
+return a.length>0}
+var C=function(n){var a=n.closest("td").css("width").replace("px","")
+return a<N}
+var A=function(n){return S(n)&&C(n)}
+var V=function(n){var a=n.closest("td")
+var e=a.css("width")
+a.data("orig-width",e)
+a.css("width","".concat(N,"px"))}
+t()(document).on("click","a.instructure_inline_media_comment",Object(c["a"])(function(){if(!INST.kalturaSettings){alert(y.t("alerts.kaltura_disabled","Kaltura has been disabled for this Canvas site"))
+return}var n=t()(this)
+var a="video"
+var e=M.getMediaCommentId(n)
+var i=M.buildCommentHolder(n)
+A(n)&&V(n)
+n.after(i)
+n.hide();("audio"===n.data("media_comment_type")||n.is(".audio_playback, .audio_comment, .instructure_audio_link"))&&(a="audio")
+i.children("div").mediaComment("show_inline",e,a,n.data("download")||n.attr("href"))
+var o=M.buildMinimizerLink()
+o.appendTo(i).click(Object(c["a"])(function(){var a=n.closest("td")
+n.show().focus()
+a.css("width",a.data("orig-width"))
+M.collapseComment(i)}))
+t.a.trackEvent("show_embedded_content","show_media")
+i.find(".innerholder").css("outline","none")
+i.find(".innerholder").on("focus",j)}))
+function O(n,a){return"undefined"!==typeof n&&null!==n?a(n):void 0}if(ENV.ping_url)var x=setInterval(function(){document.hidden||t.a.post(ENV.ping_url).fail(function(n){401===n.status&&clearInterval(x)})},18e4)
+Object(d["a"])(JSON.parse('{"ar":{"locked_image_24f37a16":"صورة مؤمّنة"},"cy":{"locked_image_24f37a16":"Delwedd wedi’i chloi"},"da":{"locked_image_24f37a16":"Låst billede"},"da-x-k12":{"locked_image_24f37a16":"Låst billede"},"de":{"locked_image_24f37a16":"Gesperrtes Bild"},"en-AU":{"locked_image_24f37a16":"Locked image"},"en-CA":{"locked_image_24f37a16":"Locked image"},"en-GB":{"locked_image_24f37a16":"Locked image"},"es":{"locked_image_24f37a16":"Imagen bloqueada"},"fi":{"locked_image_24f37a16":"Lukittu kuva"},"fr":{"locked_image_24f37a16":"Image verrouillée"},"fr-CA":{"locked_image_24f37a16":"Image verrouillée"},"ht":{"locked_image_24f37a16":"Imaj Bloke"},"is":{"locked_image_24f37a16":"Læst mynd"},"it":{"locked_image_24f37a16":"Immagine bloccata"},"ja":{"locked_image_24f37a16":"ロックされた画像"},"mi":{"locked_image_24f37a16":"Āhua kua rakaina"},"nb":{"locked_image_24f37a16":"Låst bilde"},"nb-x-k12":{"locked_image_24f37a16":"Låst bilde"},"nl":{"locked_image_24f37a16":"Vergrendelde afbeelding"},"nn":{"locked_image_24f37a16":"Låst bilde"},"pl":{"locked_image_24f37a16":"Zablokowany obraz"},"pt":{"locked_image_24f37a16":"Imagem bloqueada"},"pt-BR":{"locked_image_24f37a16":"Imagem bloqueada"},"ru":{"locked_image_24f37a16":"Заблокированное изображение"},"sl":{"locked_image_24f37a16":"Zaklenjena slika"},"sv":{"locked_image_24f37a16":"Låst bild"},"sv-x-k12":{"locked_image_24f37a16":"Låst bild"},"zh-Hans":{"locked_image_24f37a16":"锁定图片"},"zh-Hant":{"locked_image_24f37a16":"鎖定圖像"}}'))
+var D=u["default"].scoped("broken_images")
+function H(n){t()(n).on("error",function(n){n.currentTarget.src?t.a.get(n.currentTarget.src).fail(function(a){403===a.status?t()(n.currentTarget).attr({src:"/images/svg-icons/icon_lock.svg",alt:D.t("Locked image"),width:100,height:100}):t()(n.currentTarget).addClass("broken-image")}):t()(n.currentTarget).addClass("broken-image")})}function z(){t()('img[src!=""]').toArray().forEach(H)}t()(document).ready(function(){return z()})
+var T=e("1OyB")
+var W=e("vuIU")
+var K=".lti-thumbnail-launch"
+function G(n){n.preventDefault()
+P.launch(t()(n.target).closest(K))}var L=function(){function n(){Object(T["a"])(this,n)
+t()(document.body).delegate(K,"click",G)}Object(W["a"])(n,[{key:"launch",value:function(n){var a=JSON.parse(n.attr("target"))
+var e=t()("<iframe/>",{src:n.attr("href"),allowfullscreen:"",width:a.displayWidth||500,height:a.displayHeight||500})
+n.replaceWith(e)}}])
+return n}()
+var P=new L(K)
+ENV.page_view_update_url&&e.e(563).then(e.bind(null,"MOpQ"))
+t()("#skip_navigation_link").on("click",Object(c["a"])(function(){t()(t()(this).attr("href")).attr("tabindex",-1).focus()}))
+var I=1200
+function B(){var n=t()("body").hasClass("course-menu-expanded")||t()(document).width()>=I-15?0:-1
+t()("#section-tabs li a").attr("tabIndex",n)}t()(B)
+t()(window).on("resize",o.a.debounce(B,50))
+t()("body").on("click","#courseMenuToggle",function(){t()("body").toggleClass("course-menu-expanded")
+g()
+t()("#left-side").css({display:t()("body").hasClass("course-menu-expanded")?"block":"none"})
+B()})}}])
+
+//# sourceMappingURL=562-c-abfa0cd39e.js.map
