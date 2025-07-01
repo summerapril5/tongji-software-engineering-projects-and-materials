@@ -3,7 +3,7 @@
 
 文件夹里面是学长收集的各科的考试复习资料，如有错误欢迎指正。里面也有老学长学姐的笔记如有侵权请联系：2361928481@qq.com
 
-
+<br>
 
 下面是我各科项目的地址，欢迎交流学习：
 
@@ -15,7 +15,7 @@
 
 计算机组成原理实验报告：https://github.com/summerapril5/tongji-computer-organization-labs.git
 
-
+<br>
 
 数据库课程设计DB：https://github.com/summerapril5/tongji-database-FlowersWhispering.git
 
@@ -31,7 +31,7 @@ HCI济事楼导航：https://github.com/summerapril5/tongji-jishi-building-nav.g
 
 区块链导论：https://github.com/summerapril5/tongji-blockchain-intro-CarEasy.git
 
-
+<br>
 
 软件工程：https://github.com/summerapril5/tongji-software-engineering-fundtrading-system.git
 
@@ -41,7 +41,7 @@ HCI济事楼导航：https://github.com/summerapril5/tongji-jishi-building-nav.g
 
 JAVA企业级应用开发：https://github.com/summerapril5/tongji-java-enterprise-dev.git
 
-
+<br>
 
 软件测试：https://github.com/summerapril5/tongji-software-testing.git
 
@@ -51,7 +51,7 @@ dotnet：https://github.com/summerapril5/tongji-dotnet-projects.git
 
 商务智能案例分析BI：https://github.com/summerapril5/tongji-BusinessIntelligence-studies.git
 
-<br>😚😚😚
+<br>
 欢迎同学们动动小手star⭐一下 🥹
 
 
