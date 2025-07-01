@@ -1,5 +1,5 @@
 # tongji-software-engineering-projects-and-materials
-111由于学长基本完成泥寄软件工程专业课程的学习（软件与数据工程方向），想给电脑清内存但是又不想给课程项目和资料都直接删了，现在放在这供学弟学妹和老学长学姐们交流学习，请学弟学妹们千万不要抄袭，抄袭一律会获得按照学校要求的处罚。
+111由于学长基本完成泥寄软件工程专业课程的学习（软件与数据工程方向）🥳，想给电脑清内存但是又不想给课程项目和资料都直接删了，现在放在这供学弟学妹和老学长学姐们交流学习，请学弟学妹们千万不要抄袭，抄袭一律会获得按照学校要求的处罚。🥲
 
 文件夹里面是学长收集的各科的考试复习资料，如有错误欢迎指正。里面也有老学长学姐的笔记如有侵权请联系：2361928481@qq.com
 
@@ -50,6 +50,9 @@ JAVA企业级应用开发：https://github.com/summerapril5/tongji-java-enterpri
 dotnet：https://github.com/summerapril5/tongji-dotnet-projects.git
 
 商务智能案例分析BI：https://github.com/summerapril5/tongji-BusinessIntelligence-studies.git
+😚😚😚
+
+欢迎同学们动动小手star一下🥹
 
 
 
